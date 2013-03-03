@@ -11,7 +11,7 @@ Use Vundle.
 
 In your .vimrc:
 
-    Bundle "robertkluin/vim-handy-highlighter"
+    Bundle "robertkluin/vim-handy-highlights"
 
 
 
